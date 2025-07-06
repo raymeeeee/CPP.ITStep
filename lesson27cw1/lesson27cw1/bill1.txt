@@ -1,0 +1,8 @@
+======================
+Product: Apple
+Price: 100
+Weight: 0.5
+======================
+Amount: 2
+Total Cost: 200
+Total Weight: 1

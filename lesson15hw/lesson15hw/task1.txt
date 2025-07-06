@@ -1,0 +1,18 @@
+int: 2 
+int: 5 
+int: 6 
+int: 7 
+int: 12 
+
+float: 321.451996 
+float: 123.534599 
+float: 414.130005 
+float: 543.119995 
+float: 325.429993 
+
+word: xcghjk 
+word: vbhjkl; 
+word: vbnjkl 
+word: avbnm 
+word: qrytr 
+

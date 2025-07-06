@@ -1,0 +1,9 @@
+Name:		Danylo
+Surname:	Poluektov
+
+Theater:	Secret Cinema
+Films:		Parasite(2 tickets)
+		The Matrix(6 tickets)
+		
+Tickets:	8
+Payment:	3392 UAH

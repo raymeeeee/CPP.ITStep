@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TourCompanyes::Tours::Cruise" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEQIAQAEAAAAACAAIAAAACQAQABAAAIAAAAAA=</HashCode>
+      <FileName>Cruise.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourCompanyes::Tours::HealthTour" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQAAAAAAAACACABRABAAQABAAAAAAAAAA=</HashCode>
+      <FileName>HealthTour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourCompanyes::Tours::HikingTour" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQQAAAAAAACACAAXABAAQABAAABAAAAAA=</HashCode>
+      <FileName>HikingTour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourCompanyes::Tours::Tour" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAhAAAAAAyQwEGADAQACVIIAAAMCA3CBAAEAAgAoAI=</HashCode>
+      <FileName>Tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DateTime" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAkAACAIABABAAwcAEHTQAAAAQAIgQAEAAjAAQBwQU=</HashCode>
+      <FileName>DateTime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAEABIAABAABAAgIAAEIAAMABAAABCACAgACAAQ=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvalidAmountException" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAgAAIAAAAAAAACAA=</HashCode>
+      <FileName>UserExceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InsufficientFundsException" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAgAAAAIAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>UserExceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Users" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAACAIAAAAAAABAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Users.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourCompanyes::TourCompany" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAABAABAAAAAIgAAAAAAAEEAAAAAQAAEAEAQAA=</HashCode>
+      <FileName>TourCompany.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

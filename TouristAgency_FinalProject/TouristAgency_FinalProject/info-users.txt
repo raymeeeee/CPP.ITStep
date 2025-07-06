@@ -1,0 +1,15 @@
+Manager
+admin
+qwerty
+9999
+
+User
+rei
+111
+300
+
+User
+alex
+123
+1000
+

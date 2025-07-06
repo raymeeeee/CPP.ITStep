@@ -1,0 +1,19 @@
+int: 432 
+int: 41 
+int: 321 
+int: 43 
+int: 543 
+int: 5431 
+int: 321321 
+
+float: -432432.437500 
+float: -321.455505 
+float: 1929.312012 
+float: 3.145671 
+
+ word: ewefre 
+word: teorekre 
+word: qkjldkld 
+word: asdkadsk 
+word: qqewkkl 
+

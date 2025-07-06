@@ -1,0 +1,91 @@
+# Visual Studio files
+.vs/
+.vscode/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.sdf
+ipch/
+*.opensdf
+*.db
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+out/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+*.out
+*.ilk
+*.pdb
+*.exp
+*.manifest
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+*.cmake
+
+# Qt Creator files
+*.pro.user
+*.autosave
+
+# Other IDE files
+.idea/
+*.code-workspace
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+dependencies/
+third-party/
+
+# Test coverage
+*.gcda
+*.gcno
+*.gcov
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Backup files
+*~
+*.bak
+*.swp
